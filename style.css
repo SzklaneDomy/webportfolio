@@ -213,6 +213,7 @@ h2 {
   justify-content: space-around;
   align-items: center;
   margin-top: 5vh;
+  height: inherit;
 }
 
 .projects-list li {
