@@ -113,7 +113,7 @@ h2 {
   .nav-links {
     position: absolute;
     right: 0px;
-    height: 92vh;
+    height: 100vh;
     top: 11vh;
     display: flex;
     flex-direction: column;
@@ -134,6 +134,7 @@ h2 {
 
   .nav-links li {
     opacity: 0;
+    padding-bottom: 40px;
   }
 
   .image-wrapper img {
@@ -245,7 +246,7 @@ h2 {
 
 .tech {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
 }
